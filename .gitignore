@@ -1,0 +1,7 @@
+# .gitignore - list of files ignored by Git for the Rattlesnake project
+
+# PyCharm IDE internal project configuration directory
+.idea/
+
+# compiled Python bytecode files
+*.py[co]

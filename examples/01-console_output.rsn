@@ -1,0 +1,17 @@
+# Rattlesnake Example 01
+# Console output
+
+# Simply enclose literal text by 'single quotes' to print it:
+'Hello World'
+
+
+# To print the evaluated result of an expression instead, surround it with `backticks`.
+`2+2`
+
+
+# Literal and evaluated output may be combined by writing them after each other:
+'Two and two is '`2+2`', right?'
+
+# But you can also simply enclose an evaluated snippet in a literal one to make it easier to type and read:
+'Two and two is `2+2`, right?'
+

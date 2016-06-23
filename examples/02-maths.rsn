@@ -1,0 +1,20 @@
+# Rattlesnake Example 02
+# Maths
+
+# Basic arithmetic operators:
+
+# Addition: a+b
+'Two and two is '`2+2`
+# Subtraction: a-b
+'Subtract two from seven to get '`7-2`
+# Multiplication: a*b
+'Three times four is '`3*4`
+# Division (exact, result is float if necessary): a/b
+'Ten divided by four is '`10/4`
+# Division (integer, result will be rounded towards 0): a//b
+'The integer division of ten and four results in '`10//4`
+# Modulo (integer division remainder): a%b
+'The remainder of ten divided by four is '`10%4`
+
+
+
